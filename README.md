@@ -76,19 +76,19 @@ A compléter avec information de connexion, d'utilisation, etc.
 
 L'application containerbank dispose d'une architecture 3-tiers classique (Presentation -> Service -> Repository).
 
-<img src="https://gitlab.com/wavestone/hackathonpackapp/containerbank/raw/master/readme/architecture-overview.png"
+<img src="https://github.com/nicnhus22/packapp/blob/master/readme_architecture-overview.png?raw=true"
      alt="Architecture overview"
      width="70%" />
 
 ### Diagramme de classe 
 
-<img src="https://gitlab.com/wavestone/hackathonpackapp/containerbank/raw/master/readme/class-diagram.png"
+<img src="https://github.com/nicnhus22/packapp/blob/master/readme_class-diagram.png?raw=true"
      alt="Diagramme de classe"
      width="70%" />
 
 ### Diagramme fonctionnel 
 
-<img src="https://gitlab.com/wavestone/hackathonpackapp/containerbank/raw/master/readme/functional-diagram.png"
+<img src="https://github.com/nicnhus22/packapp/blob/master/readme_functional-diagram.png?raw=true"
      alt="Diagramme fonctionnel"
      width="70%" />
 
