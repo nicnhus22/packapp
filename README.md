@@ -67,7 +67,7 @@ Vous pouvez accéder à l'application containerbank ici: http://localhost:9966/c
 
 **Environnement CaaS Amazon** 
 
-Chaque équipe dipose de son environnement AWS EKS dédié. 
+Un environnement AWS EKS est mis à disposition afin de déployer vos conteneurs !  
 A compléter avec information de connexion, d'utilisation, etc.
 
 # L'application
@@ -96,7 +96,6 @@ L'application containerbank dispose d'une architecture 3-tiers classique (Presen
 
 Disponible ici : https://gitlab.com/wavestone/hackathonpackapp/containerbank/blob/master/src/main/resources/db/mysql/initDB.sql 
 
-
 # Annexes 
 
 ## Liens vers les présentations
@@ -110,7 +109,7 @@ Disponible ici : https://gitlab.com/wavestone/hackathonpackapp/containerbank/blo
 
 ## Bonnes pratiques
 
-**Bonnes pratiques applicables au hackaton** - Le respect des bonnes pratiques est LE critère d'évaluation le plus important. Nous vous avons préselectionné les bonnes pratiques à ne pas manquer ... allez voir le détail dans le [guide de bonnes pratiques](https://google.com).
+**Bonnes pratiques applicables au hackathon** - Le respect des bonnes pratiques est LE critère d'évaluation le plus important. Nous vous avons préselectionné les bonnes pratiques à ne pas manquer ... allez voir le détail dans le [guide de bonnes pratiques](https://google.com).
 
 | ID | Description |
 |------|-------|
