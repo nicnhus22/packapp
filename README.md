@@ -1,6 +1,6 @@
 # Bienvenue au Hackathon PackApp !
 
-L’objectif principal est de conteneuriser et API-ser l’application containerbank afin de pouvoir la déployer sur le CaaS AWS. Vous l'avez compris, vous devrez découper l'application de la plus belle façon qui soit . Consignes générales : 
+L’objectif principal est de conteneuriser et API-ser l’application [containerbank](http://hackathonpackapp.herokuapp.com) afin de pouvoir la déployer sur le CaaS AWS. Vous l'avez compris, vous devrez découper l'application de la plus belle façon qui soit . Consignes générales : 
 - :heavy_check_mark: **L’application doit être fonctionnelle**, c’est-à-dire couvrir tous les use cases exposés ci-après
 - :computer: **Aucune restriction ne s’applique au design de l’interface utilisateur** : libre à vous de la modifier du moment qu'elle permet de couvrir tous les use cases
 - :wink: **Carte blanche** ! Modifiez, découpez, réarchitecturez, détruisez : l'application doit tourner sur le CaaS !  
@@ -17,7 +17,7 @@ L’objectif principal est de conteneuriser et API-ser l’application container
 - [ ] `ViewPayment` : voir des informations relatives à l'historique de paiement d’une carte bleue<br/>
 - [ ] `AddPayment` : ajouter des informations relatives à un paiement (nature du paiement)<br/>
 - [ ] `Monitoring` : monitorer chaque appels et leur durée<br/>
-- [ ] `Logging` : ajouter des informations relatives à un paiement (nature du paiement)
+- [ ] `Logging` : tracer les logs de l'application
 
 ## Livrables
 
